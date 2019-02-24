@@ -93,7 +93,7 @@ class PyTest(TestCommand):
         exit(errno)
 
 setup(
-    name='Robinhood',
+    name='rhwrappersecond',
     author='Jamone Kelly',
     author_email='TODO',
     url='https://github.com/Jamonek/Robinhood',
